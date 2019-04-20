@@ -26,8 +26,8 @@
 ?>
 
 <form action="" method="GET">
-	<input type="number" name="number_1" placeholder="">
-	<input type="number" name="number_2" placeholder=""> <br><br>
+	<input type="number" name="number_1">
+	<input type="number" name="number_2"> <br><br>
 
 	<input type="submit" name="plus" value="+">
 	<input type="submit" name="subtract" value="-">
