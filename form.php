@@ -12,9 +12,8 @@
 				if(empty($name))
 				{
 					echo 'name is not allow empty';
-				} elseif (strlen($name) < 5 || strlen($name) > 10) {
-					echo 'must chars greater than 5 chars and less then 10';
-				} else
+				} 
+				 else
 				{
 					echo 'welcome '. $name;
 				}
