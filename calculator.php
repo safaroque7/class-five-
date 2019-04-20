@@ -9,19 +9,16 @@
 <?php
 	function subtractfn($a, $b){
 		echo $a . '-' . $b . '=';
-		return $a - $b;
 	}
 ?>
 <?php
 	function multiple($a, $b){
 		echo $a . 'x' . $b . '=';
-		return $a * $b;
 	}
 ?>
 <?php
 	function divided($a, $b){
 		echo $a . '/' . $b . '=';
-		return $a / $b;
 	}
 ?>
 
